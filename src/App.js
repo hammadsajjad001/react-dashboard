@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-
+import DetailBoxes from "./components/DetailBox/DetailBoxes";
+import PerformanceChart from "./components/ChartComponent/PerformanceChart";
+import Grouped from "./components/ThreeComponents/Grouped";
+import Tasks from "./components/TasksFolder/Tasks";
+import ManagedTable from "./components/ManagementTableFolder/ManagedTable";
+import NavBarComponent from "./components/NavBarFolder/NavBarComponent";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <NavBarComponent/>
+      <div className="components-section">
+      <PerformanceChart />
+      <DetailBoxes />
+      <Grouped />
+      <div className="task-list-table-flex">
+      <Tasks />
+      <ManagedTable />
+      </div>
+      </div>
     </div>
   );
 }
