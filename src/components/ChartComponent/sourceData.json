@@ -1,0 +1,126 @@
+[
+    {
+<<<<<<< HEAD
+      "label": "JAN",
+      "accountsValue": 100,
+      "purchaseValue": 80,
+      "sessionsValue": 60
+    },
+    {
+      "label": "FEB",
+      "accountsValue": 70,
+      "purchaseValue": 120,
+      "sessionsValue": 80
+    },
+    {
+      "label": "MAR",
+      "accountsValue": 90,
+      "purchaseValue": 105,
+      "sessionsValue": 65
+    },
+    {
+      "label": "APR",
+      "accountsValue": 70,
+      "purchaseValue": 110,
+      "sessionsValue": 130
+    },
+    {
+      "label": "MAY",
+      "accountsValue": 85,
+      "purchaseValue": 95,
+      "sessionsValue": 80
+    },
+    {
+      "label": "JUN",
+      "accountsValue": 60,
+      "purchaseValue": 105,
+      "sessionsValue": 105
+    },
+    {
+      "label": "JUL",
+      "accountsValue": 75,
+      "purchaseValue": 90,
+      "sessionsValue": 90
+    },
+    {
+      "label": "AUG",
+      "accountsValue": 60,
+      "purchaseValue": 100,
+      "sessionsValue": 130
+    },
+    {
+      "label": "SEP",
+      "accountsValue": 90,
+      "purchaseValue": 80,
+      "sessionsValue": 70
+    },
+    {
+      "label": "OCT",
+      "accountsValue": 80,
+      "purchaseValue": 95,
+      "sessionsValue": 115
+    },
+    {
+      "label": "NOV",
+      "accountsValue": 110,
+      "purchaseValue": 70,
+      "sessionsValue": 60
+    },
+    {
+      "label": "DEC",
+      "accountsValue": 100,
+      "purchaseValue": 120,
+      "sessionsValue": 130
+    }
+  ]
+  
+=======
+        "label":"JAN",
+        "value": 100
+    },
+    {
+        "label":"FEB",
+        "value": 70
+    },
+    {
+        "label":"MAR",
+        "value": 90
+    },
+    {
+        "label":"APR",
+        "value": 70
+    },
+    {
+        "label":"MAY",
+        "value": 85
+    },
+    {
+        "label":"JUN",
+        "value": 60
+    },
+    {
+        "label":"JUL",
+        "value": 75
+    },
+    {
+        "label":"AUG",
+        "value": 60
+    },
+    {
+        "label":"SEP",
+        "value": 90
+    },
+    {
+        "label":"OCT",
+        "value": 80
+    },
+    {
+        "label":"NOV",
+        "value": 110
+    },
+    {
+        "label":"DEC",
+        "value": 100
+    }
+]
+>>>>>>> ccbb601011da5cbd7e2f9725e675d4d484af20c0
